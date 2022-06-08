@@ -1,5 +1,7 @@
 # Fundamentos de Computação e Algoritmos
 
+Professores: Mário Souto e Edson Ifarraguirre Moreno
+
 Para visualizar basta abrir arquivo `index.html` no navegador de sua preferência.
 
 Imagem de exemplo:
