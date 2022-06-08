@@ -5,3 +5,6 @@ Para visualizar basta abrir arquivo `index.html` no navegador de sua preferênci
 Imagem de exemplo:
 
 ![Exemplo](https://github.com/ValchanOficial/PUCRS-FullstackDevelopment/blob/main/01_Fundamentos/imgs/img.png)
+
+Referência:
+https://github.com/omariosouto/pucpos-code
