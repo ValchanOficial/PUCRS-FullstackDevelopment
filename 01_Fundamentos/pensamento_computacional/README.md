@@ -16,8 +16,8 @@ LinkedList:
 - https://github.com/loiane/javascript-datastructures-algorithms/blob/main/src/js/data-structures/linked-list.js
 
 BinaryTree:
-- •https://github.com/loiane/javascript-datastructures-algorithms/blob/main/src/js/data-structures/binary-search-tree.js
-- •https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/blob/master/src/data-structures/trees/binary-tree-node.js
+- https://github.com/loiane/javascript-datastructures-algorithms/blob/main/src/js/data-structures/binary-search-tree.js
+- https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/blob/master/src/data-structures/trees/binary-tree-node.js
 
 Tipos:
 - https://github.com/loiane/javascript-datastructures-algorithms/tree/main/src/js/algorithms
