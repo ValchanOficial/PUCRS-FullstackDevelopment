@@ -6,6 +6,7 @@
 
 - Projeto em Desenvolvimento de Aplicação WEB - Parte 1
 - Fundamentos de Computação e Algoritmos
+- Lean Startup & MPV
 - Programação Orientada a Objetos
 - DevOps Básico
 - Design de UI
@@ -23,6 +24,5 @@
 - Empreendedorismo e Novos Modelos de Negócios
 - Bancos de Dados NoSql
 - Banco de Dados Relacional
-- Lean Startup & MPV
 - Mentalidade Ágil - LEAN
 - Projeto em Desenvolvimento de Aplicação WEB - Parte 2
