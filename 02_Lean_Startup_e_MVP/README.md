@@ -11,3 +11,8 @@ Professores: Alexander Osterwalder e Leandro Bento Pompermaier
 - Estratégia do MVP (Minimum Viable Product) para o lançamento de novos produtos e serviços
 - Validação e viabilidade do negócio
 - A importância da prototipagem
+
+> “O foco não é perguntar aos clientes, "Que produto você quer?"  
+> O foco deve ser perguntar a eles, "Que tarefa você está tentando realizar?"”  
+> **Tony Ulwick - Jobs to be Done (Think CPG)**
+
