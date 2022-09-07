@@ -10,6 +10,6 @@ Professores: Alessandro Valério e Edson Ifarraguirre Moreno
 - Estudo sobre construtores de tipos.
 
 > “Não adianta você ser um bom programador,  
-> mas você não saber o que o mercado precisa."”  
+> mas você não saber o que o mercado precisa.”  
 > **Juliana Remor**
 
