@@ -12,6 +12,6 @@ Professores: Manoel Veras e Tiago Coelho Ferreto
 - Desafios e tendências em computação em nuvem.
 
 > “Não adianta simplesmente entregar algo que eu entenda  
-> ser uma boa experiência para o usuário, eu preciso ter noção,  
+> ser uma boa experiência para o usuário, eu preciso ter noção  
 > se aquilo está sendo uma boa experiência.”  
 > **Edson Ifarraguirre Moreno**
