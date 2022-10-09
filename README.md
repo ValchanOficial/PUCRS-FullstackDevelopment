@@ -9,6 +9,7 @@
 - Lean Startup & MPV
 - Programação Orientada a Objetos
 - DevOps Básico
+- Arquitetura de Software em Nuvem
 - Design de UI
 - Inovação e Transformação Digital
 - Técnicas Ágeis de Programação
@@ -18,7 +19,6 @@
 - Qualidade e Teste de Software
 - Arquitetura Server-Side
 - DevOps Avançado
-- Arquitetura de Software em Nuvem
 - Segurança de Software
 - Design de UX
 - Empreendedorismo e Novos Modelos de Negócios
