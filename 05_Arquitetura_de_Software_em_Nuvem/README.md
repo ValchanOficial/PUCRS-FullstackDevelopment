@@ -11,7 +11,7 @@ Professores: Manoel Veras e Tiago Coelho Ferreto
 - Estudo de casos de aplicações que utilizam computação em nuvem. 
 - Desafios e tendências em computação em nuvem.
 
-> “Não adianta simplesmente entregar algo que eu entenda,  
+> “Não adianta simplesmente entregar algo que eu entenda  
 > ser uma boa experiência para o usuário, eu preciso ter noção,  
 > se aquilo está sendo uma boa experiência.”  
 > **Edson Ifarraguirre Moreno**
