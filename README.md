@@ -10,8 +10,8 @@
 - Programação Orientada a Objetos
 - DevOps Básico
 - Arquitetura de Software em Nuvem
-- Design de UI
 - Inovação e Transformação Digital
+- Design de UI
 - Técnicas Ágeis de Programação
 - Web Services
 - Programação para Web
