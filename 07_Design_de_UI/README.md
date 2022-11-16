@@ -10,6 +10,6 @@ Professores: Luana Müller e Joe Natoli
 - Definição de prototipação e seus principais objetivos.
 - Apresentação de ferramentas de apoio à prototipação e ao design de interfaces.
 
-> “Front-end é mais do que simplesmente entregar uma interface.
+> “Front-end é mais do que simplesmente entregar uma interface.  
 > Existem cuidados que devem ser tomados no desenvolvimento desse tipo de solução.”  
 > **Edson Ifarraguirre Moreno**
