@@ -2,7 +2,7 @@
 
 > “Existem lições que a gente aprende que são muito importantes [...]  
 > que vão além das questões técnicas e das questões de metodologia.”  
-> **Edson Moreno**
+> **Edson Ifarraguirre Moreno**
 
 - Projeto em Desenvolvimento de Aplicação WEB - Parte 1
 - Fundamentos de Computação e Algoritmos
