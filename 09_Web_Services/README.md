@@ -12,3 +12,5 @@ Professores: Cássio Trindade e Miguel Gomes Xavier
 > “Quando a gente pensa em arquitetura de nuvem, a gente pensa nos requisitos do  
 > negócio, em arquitetura de referência e nos requisitos técnicos.”  
 > **Manoel Veras**
+
+https://github.com/cassiowt/CursoWEBService
