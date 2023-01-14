@@ -14,15 +14,17 @@
 - Design de UI
 - Técnicas Ágeis de Programação
 - Web Services
-- Programação para Web
+- Design de UX
+- Banco de Dados Relacional
 - MicroServiços
+- Empreendedorismo e Novos Modelos de Negócios
 - Qualidade e Teste de Software
+- Segurança de Software
+- Bancos de Dados NoSQL
+- Programação para Web
+- Arquitetura Client-Side
 - Arquitetura Server-Side
 - DevOps Avançado
-- Segurança de Software
-- Design de UX
-- Empreendedorismo e Novos Modelos de Negócios
-- Bancos de Dados NoSql
-- Banco de Dados Relacional
 - Mentalidade Ágil - LEAN
+- Design Thinking na criação de produtos e serviços
 - Projeto em Desenvolvimento de Aplicação WEB - Parte 2
