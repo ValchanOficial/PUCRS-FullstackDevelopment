@@ -10,6 +10,10 @@ Professores: Rubem Pechansky e Milene Selbach Silveira
 - Ideação de soluções centradas no usuário.
 - Introdução aos métodos e técnicas de avaliação com usuário.
 
-> “Não se pode projetar uma experiência do usuário,  
-> somente projetar para uma experiência do usuário.”  
-> **Rogers, Sharp e Preece 2013**
+> “A T.I não existe para fabricar sistemas,  
+> a T.I existe para facilitar a vida das pessoas.”  
+> **Rubem Pechansky**
+
+> “Um computador não deve fazer você perder tempo  
+> ou exigir que você faça mais trabalho do que o estritamente necessário.”  
+> **Jef Raskin**
