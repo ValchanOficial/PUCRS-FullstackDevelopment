@@ -16,7 +16,7 @@
 - Web Services
 - Design de UX
 - Banco de Dados Relacional
-- MicroServiços
+- Microsserviços
 - Empreendedorismo e Novos Modelos de Negócios
 - Qualidade e Teste de Software
 - Segurança de Software
