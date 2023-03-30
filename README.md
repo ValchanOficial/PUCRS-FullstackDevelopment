@@ -21,10 +21,10 @@
 - Qualidade e Teste de Software
 - Segurança de Software
 - Bancos de Dados NoSQL
+- Design Thinking na criação de produtos e serviços
 - Programação para Web
 - Arquitetura Client-Side
 - Arquitetura Server-Side
 - DevOps Avançado
 - Mentalidade Ágil - LEAN
-- Design Thinking na criação de produtos e serviços
 - Projeto em Desenvolvimento de Aplicação WEB - Parte 2
