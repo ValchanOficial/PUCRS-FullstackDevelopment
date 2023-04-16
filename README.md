@@ -22,9 +22,10 @@
 - Segurança de Software
 - Bancos de Dados NoSQL
 - Design Thinking na criação de produtos e serviços
-- Programação para Web
-- Arquitetura Client-Side
 - Arquitetura Server-Side
 - DevOps Avançado
-- Mentalidade Ágil - LEAN
+- Segurança de Software
 - Projeto em Desenvolvimento de Aplicação WEB - Parte 2
+- Programação para Web
+- Mentalidade Ágil - LEAN
+- Arquitetura Client-Side
