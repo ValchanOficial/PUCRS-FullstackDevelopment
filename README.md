@@ -19,7 +19,6 @@
 - Microsserviços
 - Empreendedorismo e Novos Modelos de Negócios
 - Qualidade e Teste de Software
-- Segurança de Software
 - Bancos de Dados NoSQL
 - Design Thinking na criação de produtos e serviços
 - Arquitetura Server-Side
